@@ -26,3 +26,9 @@ Parsing and organizing JSON data using Python
 Visualizing weather attributes using Matplotlib and Seaborn
 
 It serves as a strong foundation for students and professionals looking to build real-time dashboards, automated reporting tools, or analytics platforms involving third-party data integration.
+
+*OUTPUT* 
+
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/57acbc78-514f-4f08-aba3-e9e53cf674e5" />
+
+
