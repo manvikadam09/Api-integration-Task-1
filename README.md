@@ -31,4 +31,6 @@ It serves as a strong foundation for students and professionals looking to build
 
 <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/57acbc78-514f-4f08-aba3-e9e53cf674e5" />
 
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/92d60063-66f5-47c7-98fe-88d510dceb0c" />
+
 
